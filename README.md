@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jovy Zabel</h1>
-<blockquote align="center">Developer</blockquote>
+<h1 align="left">Hi 👋, I'm Jovy Zabel</h1>
+<blockquote align="left">Developer</blockquote>
 
 _- 🌱 I’m currently learning **Typescript, Angular 18, React, NodeJs and Java.** Not easy, but i'll do!_ &#128521;
 
