@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jovy Zabel</h1>
 <blockquote align="left">Developer</blockquote>
 
-_- 🌱 I’m currently learning **Typescript, Angular 18, React, NodeJs and Java.** Not easy, but i'll do!_ &#128521;
+_- 🌱 I’m currently learning **Typescript, Angular 18, React, NodeJs and Java.** Not easy, but it'll do!_ &#128521;
 
 _- 📫 How to reach me **jovymonka7@gmail.com**_
 
