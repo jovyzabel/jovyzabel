@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Jovy Zabel</h1>
-<blockquote align="left">Developer</blockquote>
+<blockquote align="left">Web Developer</blockquote>
 
-_**Always good to learn**_ <br/>
-_- 🌱 I’m learning **Typescript, Angular, Nextjs, NodeJs and Java.** Not easy, but it'll do!_ &#128521; <br/>
-_-  Step by step, I am becoming familiar with the **Microservices approach**, even though there is still a long way to go._ &#128524; <br/>
-_- 🌱 Working on **Ensitech app** using microservice approach with spring boot & its ecosystem!_ &#128523;
+_**I love these following technos**_ <br/>
+_-  **Typescript, Angular, Nextjs, NodeJs and Java.**  &#128521; <br/>
+_-  Step by step, I am becoming more familiar with the **Microservices approach**, even though there is still a long way to go._ &#128524; <br/>
+_- 🌱 For **Ensitech app** we used microservice approach with spring boot & its ecosystem!_ &#128523;
 
 _- 📫 How to reach me **jovymonka7@gmail.com**_
 
